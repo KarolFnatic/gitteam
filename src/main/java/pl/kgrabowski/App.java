@@ -6,8 +6,7 @@ package pl.kgrabowski;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello Heniu!" );
+    public static void main( String[] args ) {
+        System.out.println( "Wydawnie reszty w nominałach" );
     }
 }
